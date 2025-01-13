@@ -1,0 +1,54 @@
+# Preguntas Frecuentes Alumni
+
+## Informacion General
+- **¿Que es Alumni?**
+  - Se llama Alumni a los graduados de los programas de DBA, MBA y Maestrias Corporativas de CENTRUM PUCP.
+
+- **¿Como me inscribo en la Comunidad CENTRUM Alumni?**
+  - No hay inscripcion, ingresas a la Comunidad CENTRUM Alumni en el momento en que te graduas en algun programa de DBA, MBA o de grado academico de CENTRUM PUCP.
+
+- **¿Puedo usar mi correo de alumno luego de graduarme?**
+  - Si, puedes conservar tu correo electronico y tu clave de ingreso cuando te graduas, lo que te permite seguir recibiendo las comunicaciones de CENTRUM PUCP.
+
+- **¿Como me entero de los beneficios que ofrece CENTRUM PUCP?**
+  - Debes mantener tu correo activo y revisarlo permanentemente y/o registrarte en la plataforma online CENTRUM Connect, exclusiva para la comunidad CENTRUM Alumni.
+
+- **¿Tengo algun beneficio por ser graduado?**
+  - Si, tienes acceso a servicios y beneficios exclusivos que puedes ver en [este enlace](https://centrum.pucp.edu.pe//alumni/comunidad-alumni/).
+
+## Tramites Academicos
+- **¿Como puedo tramitar un certificado de notas?**
+  - Para conocer como realizar el tramite de un certificado de notas, consulta el [siguiente manual](https://s3.us-west-2.amazonaws.com/cdn.centrum.pucp.education/wp-content/uploads/2021/05/31161606/tramitar-certificado-notas-alumni-min.pdf) o ingresa [aqui](https://estudiante.pucp.edu.pe/tramite/certificado-de-notas/).
+  - Podras solicitarlo a traves de tu campus virtual: 
+    - www.pucp.edu.pe
+    - Menu > Solicitudes y Servicios > Tramites Academicos > Notas > Certificado de Notas
+  - Lee detenidamente las instrucciones antes de registrar la solicitud. Una vez que hayas realizado el pago, envia un correo a [rolivera@pucp.edu.pe](mailto:rolivera@pucp.edu.pe) con el asunto "certificado de notas". Recibiras el certificado en version PDF en un plazo de 48 horas. Si no recuerdas tu usuario y contrasena, escribe a [asistencia-dti@pucp.edu.pe](mailto:asistencia-dti@pucp.edu.pe).
+  - En el certificado de notas se consigna la lista de cursos, cada uno con su respectivo creditaje, calificacion y fecha de acta.
+
+- **¿Como realizo la legalizacion de documentos?**
+  - Primero, cancela a traves del campus virtual por la legalizacion del diploma de grado. Despues, envia a [ocr@pucp.edu.pe](mailto:ocr@pucp.edu.pe) el archivo en formato PDF del documento a refrendar. El documento refrendado sera enviado a tu correo institucional en un plazo de 3 a 5 dias utiles.
+  - Ver Tutorial de la Plataforma de pagos para tramites academicos no presenciales [aqui](http://agora.pucp.edu.pe/tutorial/campusvirtual/respuesta.php?id=10262).
+
+- **¿Como puedo tramitar un diploma?**
+  - Para saber como tramitar tu diploma, consulta la siguiente [infografia](https://s3.us-west-2.amazonaws.com/cdn.centrum.pucp.education/wp-content/uploads/2021/05/31161821/emision-grado-academico-pucp.pdf).
+  - Verificacion de requisitos de graduacion: [https://centrumonline.pucp.edu.pe](https://centrumonline.pucp.edu.pe).
+
+- **¿Como se realiza el registro del grado ante SUNEDU?**
+  - Habiendo cumplido con todos los requisitos exigidos para la obtencion del grado PUCP, tu diploma de grado entrara a tramite en el Consejo Universitario mas proximo (una fecha al mes). Despues de 30 dias desde la fecha de CU, tendras la version digital de tu diploma oficializado.
+  - El registro del grado ante SUNEDU es un tramite que realiza la PUCP y se refleja en la pagina web de SUNEDU aproximadamente 15 dias habiles despues de la oficializacion del diploma.
+
+- **¿Como puedo postular al WES?**
+  - El tramite del sobre sellado para realizar envios no se esta llevando a cabo. Para WES, los envios de documentos se realizan a traves de la plataforma QUATRIX. Puedes enviar los documentos requeridos por WES en formato PDF a [ocr@pucp.edu.pe](mailto:ocr@pucp.edu.pe).
+
+## Documentos para Convalidacion
+- Documentos requeridos:
+  - Documentos con refrendo del SG PUCP.
+  - Verificacion de firmas en SUNEDU.
+  - Ministerio de Relaciones Exteriores.
+  - Legalizacion de Diploma de Grado.
+  - Constancia de informacion academica del programa.
+  - Constancia de que el programa cursado esta conforme a ley, SUNEDU.
+  
+- **Apostillado:**
+  - CENTRUM PUCP no realiza tramites de apostillado. El grado PUCP es valido en el pais, y para realizar tramites en el extranjero, puedes apostillarlo a traves del Ministerio de Relaciones Exteriores.
+  - Informacion detallada sobre el proceso de apostilla [aqui](http://portal.rree.gob.pe/sitepages/apostilla.aspx).

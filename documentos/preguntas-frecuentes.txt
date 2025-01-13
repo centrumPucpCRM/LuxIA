@@ -1,0 +1,33 @@
+# Preguntas Frecuentes
+
+## ¿Cuantos integrantes puede tener un equipo de tesistas?
+Los grupos de tesis estaran compuestos por cuatro integrantes, y de manera excepcional podran contar con una cantidad distinta, la que no puede ser superior a cinco estudiantes, previa aprobacion de la Oficina de Tesis.
+
+## ¿Puedo cambiar de equipo de trabajo durante el desarrollo de la tesis?
+Si. Para cambiar de equipo, debes enviar un correo a la Direccion del Programa y a la Oficina de Tesis solicitando el cambio de equipo y renunciando a la tesis anterior. Posteriormente, deberas buscar un nuevo equipo de trabajo e informar a la Oficina de tu incorporacion a este equipo, la cual debera estar autorizada de forma unanime por los integrantes del equipo a traves de un correo.
+
+## ¿Es posible solicitar una extension de plazo para la entrega de la tesis?
+Si, puedes pedirla a la Oficina de Tesis a traves de correo electronico, sustentando a detalle los motivos de tu solicitud. Si la solicitud no esta visada por tu asesor, no sera aceptada. Recuerda que solo puedes solicitar una unica prorroga durante el proceso. El plazo maximo otorgado en la prorroga es de 2 meses.
+
+## ¿Cuantos dias tengo para absolver las observaciones de los revisores de calidad?
+15 dias calendario.
+
+## ¿Como se programa el Acto de Sustentacion?
+Luego de tener la aprobacion por parte del equipo de revisores de calidad, la Oficina de Tesis programara el acto de sustentacion, fecha que sera informada con al menos 7 dias de anticipacion al equipo.
+
+## ¿Cuantos profesores componen el jurado de Sustentacion?
+3 (Presidente, Jurado, Asesor de Tesis).
+
+## ¿Cuanto tiempo tiene el equipo para sustentar?
+El acto de sustentacion tiene la siguiente estructura:
+- 20 minutos de presentacion por parte del equipo
+- 30 minutos de preguntas del jurado
+- 10 minutos para cierre de la sustentacion
+
+## ¿Donde puedo encontrar tesis de Centrum para revision?
+El repositorio de tesis de la Pontificia Universidad Catolica del Peru (https://tesis.pucp.edu.pe/repositorio/) es el lugar donde puedes hallar todas las tesis desarrolladas en los programas de Maestria y Doctorado impartidos en Centrum.
+
+## Contacto
+- **Correo**: [coordinaciontesiscentrum@pucp.edu.pe](mailto:coordinaciontesiscentrum@pucp.edu.pe)
+- **Telefono**: (01) 626 2000 | anexo 7015 o 7018
+- **Horario**: lunes a viernes, 9:00 a.m. - 1:00 p.m. / 2:00 p.m. - 6:00 p.m.
