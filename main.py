@@ -10,11 +10,11 @@ from dotenv import load_dotenv
 # Punto de entrada principal
 if __name__ == "__main__":
     load_dotenv()
-    # limpiar_carpeta_documentos()
-    # ScrapingAlumni()
-    # ScrapingAlumno()
-    # ScrapingOficinaDeTesis()
-    # PreguntasFrecuentesAlumni()
-    # PreguntasFrecuentesAlumno()
-    # print("Programa ejecutado correctamente.")
+    limpiar_carpeta_documentos()
+    ScrapingAlumni()
+    ScrapingAlumno()
+    ScrapingOficinaDeTesis()
+    PreguntasFrecuentesAlumni()
+    PreguntasFrecuentesAlumno()
+    print("Programa ejecutado correctamente.")
     CRUD_Assistant()
