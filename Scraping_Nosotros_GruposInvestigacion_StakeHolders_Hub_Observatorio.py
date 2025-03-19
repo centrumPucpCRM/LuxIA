@@ -22,7 +22,7 @@ def transcribe_audio_openai(audio_path):
 
 # Función para descargar audio de YouTube
 def download_audio(youtube_url, output_path):
-    command = ["yt-dlp", "-x", "--audio-format", "mp3", "-o", output_path, youtube_url]
+    command = ["yt-dlp", "--cookies-from-browser", "chrome", "-x", "--audio-format", "mp3", "-o", output_path, youtube_url]
     subprocess.run(command, check=True)
 
 # Función para limpiar texto con OpenAI
